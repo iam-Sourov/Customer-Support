@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "title": "App Crash on Launch",
+        "description": "Customer reports that their payment keeps failing even though their card is valid.",
+        "customer": "John Smith",
+        "priority": "HIGH PRIORITY",
+        "status": "Open",
+        "createdAt": "2024-01-15"
+    },
+    {
+        "id": 2,
+        "title": "Payment Method Not Working",
+        "description": "Customer reports that their payment keeps failing even though their card is valid.",
+        "customer": "Emma Johnson",
+        "priority": "HIGH PRIORITY",
+        "status": "Open",
+        "createdAt": "2024-01-16"
+    },
+    {
+        "id": 3,
+        "title": "Unable to Download Invoice",
+        "description": "Customer cannot download their January invoice from the billing section. The download button is not working.",
+        "customer": "Michael Brown",
+        "priority": "MEDIUM PRIORITY",
+        "status": "In-Progress",
+        "createdAt": "2024-01-17"
+    },
+    {
+        "id": 4,
+        "title": "Incorrect Order Total",
+        "description": "Customer reports the order total is incorrect after applying discount code.",
+        "customer": "Sophia Miller",
+        "priority": "LOW PRIORITY",
+        "status": "Open",
+        "createdAt": "2024-01-18"
+    },
+    {
+        "id": 5,
+        "title": "App Crash on Launch",
+        "description": "Customer reports the mobile app crashes immediately upon opening.",
+        "customer": "David Wilson",
+        "priority": "HIGH PRIORITY",
+        "status": "Open",
+        "createdAt": "2024-01-19"
+    },
+    {
+        "id": 6,
+        "title": "Refund Not Received",
+        "description": "Customer states that they requested a refund but haven't received it yet.",
+        "customer": "Olivia Martinez",
+        "priority": "MEDIUM PRIORITY",
+        "status": "In-Progress",
+        "createdAt": "2024-01-20"
+    },
+    {
+        "id": 7,
+        "title": "Two-Factor Authentication Issue",
+        "description": "Customer cannot complete login because two-factor authentication codes are not being received.",
+        "customer": "James Anderson",
+        "priority": "HIGH PRIORITY",
+        "status": "Open",
+        "createdAt": "2024-01-21"
+    },
+    {
+        "id": 8,
+        "title": "Delayed Order Shipment",
+        "description": "Customer's order has not shipped even after the expected processing time.",
+        "customer": "Isabella Thomas",
+        "priority": "MEDIUM PRIORITY",
+        "status": "Open",
+        "createdAt": "2024-01-22"
+    },
+    {
+        "id": 9,
+        "title": "Email Notifications Not Working",
+        "description": "Customer reports they are not receiving any email notifications for account activity.",
+        "customer": "William Lee",
+        "priority": "LOW PRIORITY",
+        "status": "In-Progress",
+        "createdAt": "2024-01-23"
+    },
+    {
+        "id": 10,
+        "title": "Subscription Auto-Renewal Failed",
+        "description": "Customer's subscription did not auto-renew, resulting in account suspension.",
+        "customer": "Ava Davis",
+        "priority": "HIGH PRIORITY",
+        "status": "Open",
+        "createdAt": "2024-01-24"
+    }
+]
